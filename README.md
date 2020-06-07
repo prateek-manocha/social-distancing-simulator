@@ -46,8 +46,8 @@ Final results after everyone becomes imune to the sickness:
 Social Distancing % | 0% | 25% | 50% |75%
 ------------ | -------------|------------ | -------------|------------ 
 Sick | 0 | 0 | 0 | 0 
-Healthy | 0 | 1 |0| 48
-Recovered| 81 | 85 |0|53
+Healthy | 0 | 1 |12| 48
+Recovered| 81 | 85 ||53
 Dead | 20 | 15 |0|0
 
 

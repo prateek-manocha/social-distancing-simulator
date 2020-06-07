@@ -1,8 +1,8 @@
 # Social-Sistancing-Simulator
-An artificial social distancing simulator toa show the need for following social distancing to slow the spread of covid-19.
+An artificial social distancing simulator to validate the need of social distancing to slow the spread of covid-19.
 Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
-**Currently working on adding other factors that govern the real life scenario.
+__Currently working on adding other factors that govern the real life scenario, making a web based interface for the same.
 
 ## Simulation 
 In the simulation, given the below set of parameters, each person is assumed to move in a random direction with random velocity, except the people following social distancing(having black ring to distingush them) who are immobile. 

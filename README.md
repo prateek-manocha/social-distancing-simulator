@@ -55,10 +55,10 @@ The images below clearly depict that as social distancing increases:
 
 These simulations clearly show the need for social distancing in today's scenario and how it can help flatten the curve and help save lives.
 The black line in stacked area graph shows the hospital capacity.
-![0% social distancing](/images/final_0.png){:height="50%" width="50%"}
-![25% social distancing](/images/final_25.png){:height="50%" width="50%"}
-![50% social distancing](/images/final_50.png){:height="50%" width="50%"}
-![75% social distancing](/images/final_75.png){:height="50%" width="50%"}
+![0% social distancing](/images/final_0.png)
+![25% social distancing](/images/final_25.png)
+![50% social distancing](/images/final_50.png)
+![75% social distancing](/images/final_75.png)
 
 #### Tabular comparision:
 Final results after everyone becomes immune to the sickness:

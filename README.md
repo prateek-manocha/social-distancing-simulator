@@ -1,5 +1,6 @@
 # Social-Sistancing-Simulator
 An artificial social distancing simulator to validate the need of social distancing to slow the spread of covid-19.
+
 Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
 __Currently working on adding other factors that govern the real life scenario, making a web based interface for the same.__
@@ -35,6 +36,7 @@ The simulation was runned for three experiments with the different percentage of
 * 25%: 25% of people follow social distancing
 * 50%: 50% of people follow social distancing
 * 75%: 75% of people follow social distancing
+
 Videos available at: https://drive.google.com/drive/folders/1IWgoS3V3vq196AcWmMLBFvOrDbTduAri?usp=sharing
 
 As clearly depectible in the images below, as social distancing increases, it takes much longer for everyone to get infected and hospitals can treat all patients because they don’t arrive all at once. Thus,#dead people decreases with increase in social distancing.
@@ -50,7 +52,7 @@ Social Distancing % | 0% | 25% | 50% |75%
 ------------ | -------------|------------ | -------------|------------ 
 Sick | 0 | 0 | 0 | 0 
 Healthy | 0 | 1 |12| 48
-Recovered| 81 | 85 ||53
-Dead | 20 | 15 |0|0
+Recovered| 81 | 85 |77|53
+Dead | 20 | 15 |12|0
 
 

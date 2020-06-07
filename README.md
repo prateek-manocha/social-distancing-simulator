@@ -4,9 +4,9 @@ Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator
 
 **Currently working on adding other factors that govern the real life scenario.
 
-##Simulation 
+## Simulation 
 In the simulation, given the below set of parameters, each person is assumed to move in a random direction with random velocity, except the people following social distancing(having black ring to distingush them) who are immobile. 
-###Parameters:
+### Parameters:
 The following parameters can be tweaked in params.py file.
 * __Ground_size__: To change the area of the box movement is confined to.
 * __Population__: To control the total number of healthy population at the start of simulation.

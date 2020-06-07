@@ -2,7 +2,7 @@
 An artificial social distancing simulator to validate the need of social distancing to slow the spread of covid-19.
 Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
-__Currently working on adding other factors that govern the real life scenario, making a web based interface for the same.
+__Currently working on adding other factors that govern the real life scenario, making a web based interface for the same.__
 
 ## Simulation 
 In the simulation, given the below set of parameters, each person is assumed to move in a random direction with random velocity, except the people following social distancing(having black ring to distingush them) who are immobile. 
@@ -42,7 +42,9 @@ As clearly depectible in the images below, as social distancing increases, it ta
 
 #### Tabular comparision:
 Final results after everyone becomes imune to the sickness:
+
 Social Distancing % | 0% | 25% | 50% |75%
+------------ | -------------|------------ | -------------|------------ 
 Sick | 0 | 0 | 0 | 0 
 Healthy | 0 | 1 |0| 48
 Recovered| 81 | 85 |0|53

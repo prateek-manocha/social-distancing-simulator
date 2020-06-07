@@ -35,10 +35,13 @@ The simulation was runned for three experiments with the different percentage of
 * 25%: 25% of people follow social distancing
 * 50%: 50% of people follow social distancing
 * 75%: 75% of people follow social distancing
-Videos available at: 
+Videos available at: https://drive.google.com/drive/folders/1IWgoS3V3vq196AcWmMLBFvOrDbTduAri?usp=sharing
 
 As clearly depectible in the images below, as social distancing increases, it takes much longer for everyone to get infected and hospitals can treat all patients because they don’t arrive all at once. Thus,#dead people decreases with increase in social distancing.
-
+![0% social distancing](/images/final_0.png)
+![25% social distancing](/images/final_25.png)
+![50% social distancing](/images/final_50.png)
+![75% social distancing](/images/final_75.png)
 
 #### Tabular comparision:
 Final results after everyone becomes imune to the sickness:

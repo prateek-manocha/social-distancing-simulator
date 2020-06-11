@@ -3,6 +3,8 @@ An artificial social distancing simulator to validate the need for social distan
 
 Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
+Simulation Videos available at: https://drive.google.com/drive/folders/1IWgoS3V3vq196AcWmMLBFvOrDbTduAri?usp=sharing
+
 __Currently working on adding other factors that govern the real-life scenario, making a web-based interface for the same.__
 
 ## Simulation 
@@ -44,8 +46,6 @@ Values of parameters used:
 * Recovery_time: 1000frames
 * Radii: 0.02
 * Hospital_beds: 25
-
-Videos available at: https://drive.google.com/drive/folders/1IWgoS3V3vq196AcWmMLBFvOrDbTduAri?usp=sharing
 
 The images below clearly depict that as social distancing increases:
 * It takes much longer for everyone to get infected.

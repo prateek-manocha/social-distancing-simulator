@@ -3,6 +3,8 @@ An artificial social distancing simulator to validate the need for social distan
 
 Inspired by: https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
 
+Medium Link for this project: https://medium.com/@prateekmanocha/using-simulation-to-validate-the-need-for-social-distancing-ea364fb2dc51?source=friends_link&sk=00399ca783c2bdbed3aa22f1e1818b74
+
 Simulation Videos available at: https://drive.google.com/drive/folders/1IWgoS3V3vq196AcWmMLBFvOrDbTduAri?usp=sharing
 
 __Currently working on adding other factors that govern the real-life scenario, making a web-based interface for the same.__
